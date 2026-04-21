@@ -1,4 +1,4 @@
-package com.animesh.fs_exp_5.exception;
+package com.animesh.fs_exp_6.exception;
 
 import org.springframework.http.HttpStatus;
 import org.springframework.http.ResponseEntity;
